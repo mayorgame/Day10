@@ -1,0 +1,141 @@
+#header{
+    background-image: url('img/img_9.jpg');
+    background-size: cover;
+    height: 600px;
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', monospace;
+    line-height: 50px;
+    text-shadow: 0px 0px 10px black;
+    padding-top:80px;
+}
+h3{
+  width:200px;
+  height: 40px;
+  font-size: 20px;
+  border: 15px solid rgba(27, 27, 27, 0.692); 
+  padding-top: auto;
+  padding-bottom: auto;
+  margin: 20px; 
+  margin-left: auto;
+  margin-right: auto;
+  background-color: grey;
+  text-decoration: none;
+  color: antiquewhite;
+}
+h3 a{
+    text-decoration: none;
+    color: white;
+}
+#navbar {
+    width: 600px;
+    box-shadow: 0px 2px 5px #ccc;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#navbar a{
+    text-decoration: none;
+    background-color: burlywood;
+    display: block;
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-bottom: 2px solid black;
+    float: left;
+    color: black;
+
+}
+
+#container{
+    width: 980px;
+    margin: auto;
+    border-right: 1px solid #888;
+    border-left: 1px solid #888;
+}
+h2 {
+    color: brown;
+    margin-top: 50px;
+}
+
+#logo{
+    width: 200px;
+    height: auto;
+    float: right;
+}
+
+#body{
+    word-wrap: break-word;
+    background-color: none;
+    display: block;
+    height: 300px;
+
+}
+
+.icon-bar {
+  position: fixed;
+  top:50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.icon-bar a{
+    display:block;
+    text-align: center;
+    padding: 16px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
+}
+
+.icon-bar a:hover{
+    background-color: #000;
+}
+
+.facebook{
+    background-color: #3B5998;
+    color:white;
+}
+
+.twitter{
+    background-color: #55ACEE;
+    color: white;
+}
+
+.google{
+    background-color: #dd4b39;
+    color: white;
+}
+
+.linkedin {
+    background-color: #007bb5;
+    color:white;
+}
+
+.youtube{
+    background-color: #bb0000;
+    color:white
+}
+.youtubevideo{
+    position:absolute;
+    padding-right: 800px;
+    padding-left: 0x;
+    object-position: right;
+    
+}
+#left{
+    width: 680px;
+    float: left;
+    padding-right: 14px;
+    padding-left: 14px;
+}
+#right{
+    width: 240px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+    margin-top: 20px;
+}
