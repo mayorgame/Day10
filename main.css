@@ -54,6 +54,7 @@ h3 a{
     margin: auto;
     border-right: 1px solid #888;
     border-left: 1px solid #888;
+
 }
 h2 {
     color: brown;
@@ -64,6 +65,7 @@ h2 {
     width: 200px;
     height: auto;
     float: right;
+    padding-top: 20px;
 }
 
 #body{
@@ -138,4 +140,10 @@ h2 {
     padding-right: 15px;
     float: left;
     margin-top: 20px;
+}
+#map h1{
+    font-family: 'Trebuchet MS';
+    font-size: 30px;
+    color: rgb(153, 72, 43);
+    position: center;
 }
